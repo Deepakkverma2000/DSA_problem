@@ -3,6 +3,6 @@ using namespace std;
 #define ll long long
 
 int main() {
-	cout << "Hello World";
+	cout << "Hello World"<<endl;
 	return 0;
 }
